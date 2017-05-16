@@ -1,0 +1,12 @@
+curriculum_learning, models, mylibs and rnn are all python modules. Note that these were implemented using Pycharm IDE.
+The specific origin of classes or functions being used from these modules are being explained explicitly inside the report.
+For example it is specified explicitly that ManualRNN originates from rnn.manual_rnn module.
+As the python convention is, this class is found inside rnn folder and file manual_rnn.py.
+
+notebooks folder contains all the jupyter python notebooks
+
+report_parts contains the report split in different files for easier exploration. Parts are in both odt and pdf format.
+
+Full merged PDF report is found at root folder (as this text file)
+
+Enjoy!
